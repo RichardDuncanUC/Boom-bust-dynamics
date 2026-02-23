@@ -1,5 +1,5 @@
 # Boom-bust-dynamics
-Data and code for analyis of fox and hare bounties as they spread across NSW.
+Data and code for analyis of fox and hare bounties as they spread across NSW for the manuscript "Invasive species spread as travelling boom-bust waves".
 
 The R script "Simulate travelling boom bust wave.R" simulates a consumer invading a landscape with resources at carrying capacity and draws Fig. 1.
 
